@@ -6,29 +6,25 @@ body {
     background-color: lightblue;
 }
 
-.pair {
-    max-width: 800px;
-    padding: 20px;
-    text-align: justify;
-    overflow: auto;
-    margin: 0px; /* Set this value to 0px to eliminate space */
-}
-
-.pair img {
+img {
     display: block;
     border: 2px solid black;
     max-width: 800px;
     margin: 0px 0; /* Set this value to 0px to eliminate space */
 }
 
-.pair .img-left {
+.img-left {
     float: left;
 }
 
-.pair .img-right {
+.img-right {
     float: right;
 }
 
-.pair p {
+h1 {
+    max-width: 800px;
+    padding: 20px;
+    text-align: justify;
+    overflow: auto;
     margin: 0px; /* Set this value to 0px to eliminate space */
 }
