@@ -97,3 +97,23 @@ footer {
     color: white;
     text-decoration: none;
 }
+
+
+#game-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+#game-name-synopsis {
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#game-details {
+    width: 40%;
+}
+
+#game-image, #system-requirements, #reviews {
+    margin-top: 20px;
+}
