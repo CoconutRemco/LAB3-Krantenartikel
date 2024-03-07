@@ -8,9 +8,8 @@ body {
 
 img {
     display: block;
-    border: 2px solid black;
     max-width: 800px;
-    margin: 0px 0; /* Set this value to 0px to eliminate space */
+   padding: 20px;
 }
 
 .img-left {
@@ -22,7 +21,6 @@ img {
 }
 
 h1 {
-    max-width: 800px;
     padding: 20px;
     text-align: justify;
     overflow: auto;
